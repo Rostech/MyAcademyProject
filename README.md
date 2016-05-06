@@ -1,6 +1,6 @@
 # MyAcademy
 ## Line-of-business Application
-https://ci.appveyor.com/api/projects/status/github/Rostech/MyAcademyProject?retina=true&svg=true
+https://ci.appveyor.com/api/projects/status/github/Rostech/MyAcademyProject?retina=true
 
 This application is created for the purpose of the Windows application course in Telerik Academy 2015/2016.
 
