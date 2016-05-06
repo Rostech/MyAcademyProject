@@ -1,6 +1,10 @@
 # MyAcademy
 ## Line-of-business Application
 https://ci.appveyor.com/api/projects/status/github/Rostech/MyAcademyProject?retina=true
+### Build status
+
+[![Build status](https://ci.appveyor.com/api/projects/status/m0g2ef0358847bra?svg=true)](https://ci.appveyor.com/api/projects/status/github/Rostech/MyAcademyProject)
+
 
 This application is created for the purpose of the Windows application course in Telerik Academy 2015/2016.
 
