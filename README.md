@@ -1,5 +1,6 @@
 # MyAcademy
 ## Line-of-business Application
+https://ci.appveyor.com/api/projects/status/github/MyAcademyProject
 
 This application is created for the purpose of the Windows application course in Telerik Academy 2015/2016.
 
