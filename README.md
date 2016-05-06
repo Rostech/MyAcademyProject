@@ -1,6 +1,5 @@
 # MyAcademy
 ## Line-of-business Application
-https://ci.appveyor.com/api/projects/status/github/Rostech/MyAcademyProject?retina=true
 ### Build status
 
 [![Build status](https://ci.appveyor.com/api/projects/status/rvxkxx2giwvv4vgj?svg=true)](https://ci.appveyor.com/project/Rostech/myacademyproject)
